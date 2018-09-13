@@ -1,3 +1,11 @@
-/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/model/model/bean/EmployeeBean.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/model/entity/Employee.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/exception/ElaborateResponseException.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/model/bean/OperationResult.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/model/bean/OperationError.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/dao/EmployeeDao.java
 /home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/config/Employee.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/dao/EmployeeService.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/controller/EmployeeController.java
 /home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/rs/EmployeeResource.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/util/MethodUtils.java
+/home/astusr/DavideStuff/otherstuff/excersice/molinarijee/employeewebapp/src/main/java/org/fisantex/test/employeeapp/model/bean/EmployeeBean.java
